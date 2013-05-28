@@ -80,6 +80,6 @@
 	</modules>
 
 	<properties>
-		<cas.version>3.5.2-SNAPSHOT</cas.version>
+		<cas.version>3.5.3-SNAPSHOT</cas.version>
 	</properties>
 </project>
