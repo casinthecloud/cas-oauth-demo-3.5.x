@@ -50,19 +50,9 @@
         <property name="secret" value="aKmvleltXAmLKcnlMgzRjTsCnhV3QVMVDh153xJttCo" />
     </bean>
 
-    <bean id="google1" class="org.scribe.up.provider.impl.GoogleProvider">
-        <property name="key" value="anonymous" />
-        <property name="secret" value="anonymous" />
-    </bean>
-
     <bean id="yahoo1" class="org.scribe.up.provider.impl.YahooProvider">
         <property name="key" value="dj0yJmk9MzhNZWFkeXQxN09GJmQ9WVdrOVRrbzNVVVJMTkdrbWNHbzlNVGc0TURNek5EVTJNZy0tJnM9Y29uc3VtZXJzZWNyZXQmeD1lNw--" />
         <property name="secret" value="2f3146ac90d60b9f79125b1167437b6c64657a0b" />
-    </bean>
-
-    <bean id="linkedin1" class="org.scribe.up.provider.impl.LinkedInProvider">
-        <property name="key" value="yf7sgiahy7o6" />
-        <property name="secret" value="rDvaZb3veq2x1Pgi" />
     </bean>
 
     <bean id="github1" class="org.scribe.up.provider.impl.GitHubProvider">
@@ -87,9 +77,7 @@
             <list>
                 <ref bean="facebook1" />
                 <ref bean="twitter1" />
-                <ref bean="google1" />
                 <ref bean="yahoo1" />
-                <ref bean="linkedin1" />
                 <ref bean="github1" />
                 <ref bean="caswrapper1" />
                 <ref bean="wordpress1" />

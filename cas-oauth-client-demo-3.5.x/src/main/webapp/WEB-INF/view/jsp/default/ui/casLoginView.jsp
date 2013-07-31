@@ -144,11 +144,7 @@
 <br />      
 <a id="twitterAuthorizationUrl" href="${TwitterProviderUrl}">Authenticate with Twitter</a><br />
 <br />
-<a id="googleAuthorizationUrl" href="${GoogleProviderUrl}">Authenticate with Google</a><br />  
-<br />
 <a id="yahooAuthorizationUrl" href="${YahooProviderUrl}">Authenticate with Yahoo</a><br />  
-<br />
-<a id="linkedinAuthorizationUrl" href="${LinkedInProviderUrl}">Authenticate with LinkedIn</a><br />  
 <br />
 <a id="githubAuthorizationUrl" href="${GitHubProviderUrl}">Authenticate with GitHub</a><br />  
 <br />

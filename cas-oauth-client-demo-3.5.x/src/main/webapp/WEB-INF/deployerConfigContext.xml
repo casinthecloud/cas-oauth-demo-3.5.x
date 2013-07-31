@@ -253,23 +253,6 @@
                                 <value>gravatar_id</value>
                                 <value>hireable</value>
                                 <!-- github -->
-                                <!-- google -->
-                                <value>profileUrl</value>
-                                <value>isViewer</value>
-                                <value>thumbnailUrl</value>
-                                <value>formatted</value>
-                                <value>familyName</value>
-                                <value>givenName</value>
-                                <value>displayName</value>
-                                <value>urls</value>
-                                <value>photos</value>
-                                <!-- google -->
-                                <!-- linkedin -->
-                                <value>first-name</value>
-                                <value>last-name</value>
-                                <value>headline</value>
-                                <value>url</value>
-                                <!-- linkedin -->
                                 <!-- twitter -->
                                 <value>contributors_enabled</value>
                                 <value>default_profile</value>
