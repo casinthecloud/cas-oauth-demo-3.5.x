@@ -191,6 +191,7 @@
                         <property name="description" value="Allows HTTP(S) and IMAP(S) protocols" />
                         <property name="serviceId" value="^(https?|imaps?)://.*" />
                         <property name="evaluationOrder" value="10000001" />
+                        <property name="theme" value="supertheme" />
                         <property name="allowedAttributes">                        
                              <list>
                                 <!-- facebook -->

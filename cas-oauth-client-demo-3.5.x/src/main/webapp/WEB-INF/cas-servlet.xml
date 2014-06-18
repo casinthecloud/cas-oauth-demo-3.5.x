@@ -28,7 +28,8 @@
 
   <import resource="spring-configuration/propertyFileConfigurer.xml"/>
 
-  <bean id="oauthAction" class="org.jasig.cas.support.oauth.web.flow.OAuthAction">
+  <bean id="oauthAction" class="org.leleuj.MyOAuthAction">
+<!--   <bean id="oauthAction" class="org.jasig.cas.support.oauth.web.flow.OAuthAction">-->
     <property name="centralAuthenticationService" ref="centralAuthenticationService" />
     <property name="configuration" ref="oauthConfig" />
   </bean>
